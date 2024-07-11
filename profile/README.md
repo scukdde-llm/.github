@@ -5,7 +5,7 @@ The *KDDE Laboratory* is led by [Prof. Lei Duan](https://scholar.google.com.hk/c
 
 You can find models we created in [HuggingFace Hub](https://huggingface.co/scukdde-llm)
 # Copyright Notice
-Copyright © 2023 Sichuan University
+Copyright © 2023-2024 Sichuan University
 
 All repositories originally created by our group will be licensed under the [Apache 2.0 License](https://www.apache.org/licenses/LICENSE-2.0).
 ```
