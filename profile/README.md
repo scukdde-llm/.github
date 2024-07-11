@@ -3,7 +3,7 @@ This is **Large Language Model Research Group** of *KDDE Laboratory, Computer Sc
 
 The *KDDE Laboratory* is led by [Prof. Lei Duan](https://scholar.google.com.hk/citations?user=rctiZjcAAAAJ)
 
-You can find models we created in [HuggingFace Hub](https://huggingface.co/scu-kdde)
+You can find models we created in [HuggingFace Hub](https://huggingface.co/scukdde-llm)
 # Copyright Notice
 Copyright © 2023 Sichuan University
 
